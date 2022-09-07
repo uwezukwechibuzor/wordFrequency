@@ -1,5 +1,5 @@
 {
-  "name": "word-freq-counter",
+  "name": "@chibuword-frequency-counter",
   "version": "1.0.0",
   "description": "Word Frequency Counter",
   "main": "index.js",
