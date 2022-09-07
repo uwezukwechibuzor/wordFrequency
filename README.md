@@ -1,4 +1,4 @@
-# wordFrequency
+# Word Frequency Counter
 
   How to use this package
   
